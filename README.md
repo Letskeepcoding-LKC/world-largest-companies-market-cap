@@ -1,24 +1,22 @@
 World Largest Companies by Market Capitalization
 
-Project Overview
-This project scrapes data on the world’s largest companies by market capitalization from CompaniesMarketCap.com and performs exploratory data analysis to uncover insights about company rankings, industries, and market value distribution.
+This project scrapes data of the world’s largest companies by market capitalization from CompaniesMarketCap.com using python beautiful soup library and performs exploratory data analysis using SQL to uncover insights about company rankings, country domination, and market value distribution.
 
 Objectives
 - Scrape company data using Python and BeautifulSoup
-- Store the scraped data in a structured CSV format
-- Perform exploratory analysis to understand market cap trends
+- clean and standardize the data using microsoft excel
+- Store the cleaned data in a structured CSV format
+- Perform exploratory analysis to understand market cap trends using Sql
 
 Tools & Libraries
 - Python
 - Requests
 - BeautifulSoup
 - Pandas
-- Jupyter Notebook
+- Excel sheet
+- Formulas
+- DAX
+- Quary
 
 Data Source
-Data scraped from CompaniesMarketCap.com.
-
-Next Steps
-- Deeper exploratory data analysis
-- Visualization of market cap distribution
-- Industry-level comparisons
+Data scraped from CompaniesMarketCap.com
